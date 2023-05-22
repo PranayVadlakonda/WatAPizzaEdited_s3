@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419edef2-8bf1-4ab1-ad82-8e15462e23ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/com/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/com/PizzaOrder.java" afterDir="false" />
-    </list>
+    <list default="true" id="419edef2-8bf1-4ab1-ad82-8e15462e23ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,13 +92,29 @@
       <option name="project" value="LOCAL" />
       <updated>1684771715619</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="prompt the customer phone number">
+      <created>1684771859717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684771859717</updated>
+    </task>
+    <task id="LOCAL-00005" summary="prompt the customer address">
+      <created>1684771959286</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684771959286</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize scanner class" />
     <MESSAGE value="prompt the customer name" />
     <MESSAGE value="prompt the customer email" />
-    <option name="LAST_COMMIT_MESSAGE" value="prompt the customer email" />
+    <MESSAGE value="prompt the customer phone number" />
+    <MESSAGE value="prompt the customer address" />
+    <option name="LAST_COMMIT_MESSAGE" value="prompt the customer address" />
   </component>
 </project>

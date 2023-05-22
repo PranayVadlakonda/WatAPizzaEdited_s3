@@ -19,6 +19,11 @@ public class PizzaOrder {
         // prompt the customer address
         String address = input.nextLine();
 
+        input.nextLine();
+
+          float pizzaPrice = 12.99f;
+
+
 
 
 
