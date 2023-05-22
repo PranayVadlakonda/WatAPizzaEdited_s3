@@ -31,12 +31,30 @@ public class PizzaOrder {
 
           int number = input.nextInt();
           switch (number) {
-              case 1:{
-              System.out.println("please enter the number of pizza, you want to order :");
-              int first = input.nextInt();
+              case 1: {
+                  System.out.println("please enter the number of pizza, you want to order :");
+                  int first = input.nextInt();
 
-              float finalOne = first * pizzaPrice;
+                  float finalOne = first * pizzaPrice;
                   System.out.println("your total pizza bill : $ " + finalOne);
+              }
+              break;
+
+              case 2: {
+                  System.out.println("please enter the number of garlic braed you want to order :");
+                  int second = input.nextInt();
+
+                  {
+                      float finalTwo = second * garlicBread;
+                      System.out.println("your total garlic bread bill : $" + finalTwo);
+                  }
+
+              }
+              break;
+
+              case 3: {
+
+              }
 
           }
 

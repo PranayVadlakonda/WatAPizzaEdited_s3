@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="419edef2-8bf1-4ab1-ad82-8e15462e23ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/com/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/com/PizzaOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684772382797</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="In switch case 1 print your total pizza bill">
+      <created>1684773283988</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684773283988</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +148,7 @@
     <MESSAGE value="initialized the variable pizzaprice with value" />
     <MESSAGE value="initialized the variable pizzasize with value" />
     <MESSAGE value="initialized the variable garlicbread and beverage price" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialized the variable garlicbread and beverage price" />
+    <MESSAGE value="In switch case 1 print your total pizza bill" />
+    <option name="LAST_COMMIT_MESSAGE" value="In switch case 1 print your total pizza bill" />
   </component>
 </project>
