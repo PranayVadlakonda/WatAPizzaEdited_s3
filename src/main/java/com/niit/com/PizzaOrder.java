@@ -29,6 +29,19 @@ public class PizzaOrder {
 
           float beveragePrice = 1.99f;
 
+          int number = input.nextInt();
+          switch (number) {
+              case 1:{
+              System.out.println("please enter the number of pizza, you want to order :");
+              int first = input.nextInt();
+
+              float finalOne = first * pizzaPrice;
+                  System.out.println("your total pizza bill : $ " + finalOne);
+
+          }
+
+
+
 
 
 

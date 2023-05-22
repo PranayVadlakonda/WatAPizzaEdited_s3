@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419edef2-8bf1-4ab1-ad82-8e15462e23ad" name="Changes" comment="" />
+    <list default="true" id="419edef2-8bf1-4ab1-ad82-8e15462e23ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/com/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/com/PizzaOrder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PizzaOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.niit.com.PizzaOrder" />
@@ -106,7 +109,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684771959286</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initialized the variable pizzaprice with value">
+      <created>1684772185327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684772185327</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initialized the variable pizzasize with value">
+      <created>1684772262944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684772262944</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initialized the variable garlicbread and beverage price">
+      <created>1684772382797</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684772382797</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +139,9 @@
     <MESSAGE value="prompt the customer email" />
     <MESSAGE value="prompt the customer phone number" />
     <MESSAGE value="prompt the customer address" />
-    <option name="LAST_COMMIT_MESSAGE" value="prompt the customer address" />
+    <MESSAGE value="initialized the variable pizzaprice with value" />
+    <MESSAGE value="initialized the variable pizzasize with value" />
+    <MESSAGE value="initialized the variable garlicbread and beverage price" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialized the variable garlicbread and beverage price" />
   </component>
 </project>
