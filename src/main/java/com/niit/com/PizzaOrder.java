@@ -11,6 +11,7 @@ public class PizzaOrder {
         String customerName = input.nextLine();
 
         // prompt the customer email
+        String customerEmail = input.nextline();
 
 
     }
