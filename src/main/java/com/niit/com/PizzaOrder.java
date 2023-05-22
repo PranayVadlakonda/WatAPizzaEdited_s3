@@ -53,8 +53,17 @@ public class PizzaOrder {
               break;
 
               case 3: {
+                  System.out.println("please enter the number of beverages you want to order : ");
+                  int third = input.nextInt();
+
+                  {
+                      float finalThree = third * beveragePrice;
+                      System.out.println("your total beverage bill : $" + finalThree);
+                  }
+
 
               }
+              break;
 
           }
 

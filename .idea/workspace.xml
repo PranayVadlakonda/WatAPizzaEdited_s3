@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684773283988</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="In switch case 2 print your total garlicbread bill">
+      <created>1684773739674</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684773739674</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +156,7 @@
     <MESSAGE value="initialized the variable pizzasize with value" />
     <MESSAGE value="initialized the variable garlicbread and beverage price" />
     <MESSAGE value="In switch case 1 print your total pizza bill" />
-    <option name="LAST_COMMIT_MESSAGE" value="In switch case 1 print your total pizza bill" />
+    <MESSAGE value="In switch case 2 print your total garlicbread bill" />
+    <option name="LAST_COMMIT_MESSAGE" value="In switch case 2 print your total garlicbread bill" />
   </component>
 </project>
