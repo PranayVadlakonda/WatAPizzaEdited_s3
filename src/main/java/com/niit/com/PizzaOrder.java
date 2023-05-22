@@ -22,6 +22,8 @@ public class PizzaOrder {
         input.nextLine();
 
           float pizzaPrice = 12.99f;
+          char pizzaSize = 'M';
+
 
 
 
