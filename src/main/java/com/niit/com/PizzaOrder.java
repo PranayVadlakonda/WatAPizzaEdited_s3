@@ -13,6 +13,10 @@ public class PizzaOrder {
         // prompt the customer email
         String customerEmail = input.nextline();
 
+        // prompt the customer phone number
+        long phoneNumber = input.nextlong();
+
+
 
     }
 }
