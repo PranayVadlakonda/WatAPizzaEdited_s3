@@ -5,21 +5,21 @@ import java.util.Scanner;
 public class PizzaOrder {
     public static void main(String[] args) {
         // initialize scanner class
-        Scanner Scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         // prompt the customer name
-        String customerName = input.nextLine();
+        String customerName = scanner.nextLine();
 
         // prompt the customer email
-        String customerEmail = input.nextline();
+        String customerEmail = scanner.nextLine();
 
         // prompt the customer phone number
-        long phoneNumber = input.nextLong();
+        long phoneNumber = scanner.nextLong();
 
         // prompt the customer address
-        String address = input.nextLine();
+        String address = scanner.nextLine();
 
-        input.nextLine();
+        scanner.nextLine();
 
           float pizzaPrice = 12.99f;
 
@@ -29,11 +29,11 @@ public class PizzaOrder {
 
           float beveragePrice = 1.99f;
 
-          int number = input.nextInt();
+          int number = scanner.nextInt();
           switch (number) {
               case 1: {
                   System.out.println("please enter the number of pizza, you want to order :");
-                  int first = input.nextInt();
+                  int first = scanner.nextInt();
 
                   float finalOne = first * pizzaPrice;
                   System.out.println("your total pizza bill : $ " + finalOne);
@@ -42,7 +42,7 @@ public class PizzaOrder {
 
               case 2: {
                   System.out.println("please enter the number of garlic braed you want to order :");
-                  int second = input.nextInt();
+                  int second = scanner.nextInt();
 
                   {
                       float finalTwo = second * garlicBread;
@@ -54,7 +54,7 @@ public class PizzaOrder {
 
               case 3: {
                   System.out.println("please enter the number of beverages you want to order : ");
-                  int third = input.nextInt();
+                  int third = scanner.nextInt();
 
                   {
                       float finalThree = third * beveragePrice;
